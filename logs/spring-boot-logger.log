@@ -1,0 +1,53 @@
+2023-05-01 11:47:14,102 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 5440 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 11:47:14,106 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 11:47:14,107 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 11:50:37,415 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 3696 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 11:50:37,419 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 11:50:37,420 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 15:47:12,382 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 7472 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 15:47:12,393 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 15:47:12,395 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 15:58:38,118 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 7744 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 15:58:38,120 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 15:58:38,121 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:03:10,090 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 6304 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:03:10,093 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:03:10,093 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:46:08,590 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 18436 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:46:08,593 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:46:08,594 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:47:43,141 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication on DesktopRyzen3-21-10 with PID 15412 (C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA\target\classes started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:47:43,144 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:47:43,145 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:50:19,322 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication on DesktopRyzen3-21-10 with PID 10672 (C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA\target\classes started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:50:19,327 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:50:19,328 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:50:22,891 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 4.154 seconds (JVM running for 4.686)
+2023-05-01 16:52:19,029 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplication on DesktopRyzen3-21-10 with PID 13124 (C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA\target\classes started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:52:19,033 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:52:19,033 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:52:23,076 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplication in 4.819 seconds (JVM running for 6.282)
+2023-05-01 16:52:41,126 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 19288 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:52:41,144 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:52:41,145 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:52:44,424 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 3.855 seconds (JVM running for 6.389)
+2023-05-01 16:54:21,346 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 18220 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:54:21,349 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:54:21,350 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:54:24,520 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 3.582 seconds (JVM running for 4.603)
+2023-05-01 16:54:32,527 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 14128 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:54:32,530 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:54:32,532 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:54:35,890 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 3.774 seconds (JVM running for 4.953)
+2023-05-01 16:57:14,274 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 6956 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:57:14,276 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:57:14,278 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:57:18,043 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 4.149 seconds (JVM running for 5.243)
+2023-05-01 16:58:49,395 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 4504 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 16:58:49,397 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 16:58:49,397 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 16:58:52,293 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 3.263 seconds (JVM running for 4.323)
+2023-05-01 17:00:29,240 INFO org.springframework.boot.StartupInfoLogger [main] Starting EnterpriseApplicationTests on DesktopRyzen3-21-10 with PID 16272 (started by Moki_21_10 in C:\_git\06-Tutorial\Tdd\SpringBootMicroservicesWithIntelliJIDEA)
+2023-05-01 17:00:29,242 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2023-05-01 17:00:29,244 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-05-01 17:00:32,071 INFO org.springframework.boot.StartupInfoLogger [main] Started EnterpriseApplicationTests in 3.22 seconds (JVM running for 4.373)

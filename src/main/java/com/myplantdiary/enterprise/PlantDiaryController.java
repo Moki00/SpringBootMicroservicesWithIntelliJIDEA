@@ -1,28 +1,28 @@
 package com.myplantdiary.enterprise;
 
-import com.myplantdiary.enterprise.dto.LabelValue;
-import com.myplantdiary.enterprise.dto.Photo;
-import com.myplantdiary.enterprise.dto.Plant;
-import com.myplantdiary.enterprise.dto.Specimen;
-import com.myplantdiary.enterprise.service.ISpecimenService;
-import okhttp3.Response;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.*;
-import org.springframework.web.multipart.MultipartFile;
-import org.springframework.web.servlet.ModelAndView;
-
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+//import com.myplantdiary.enterprise.dto.LabelValue;
+//import com.myplantdiary.enterprise.dto.Photo;
+//import com.myplantdiary.enterprise.dto.Plant;
+//import com.myplantdiary.enterprise.dto.Specimen;
+//import com.myplantdiary.enterprise.service.ISpecimenService;
+//import okhttp3.Response;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.http.HttpHeaders;
+//import org.springframework.http.HttpStatus;
+//import org.springframework.http.MediaType;
+//import org.springframework.http.ResponseEntity;
+//import org.springframework.stereotype.Controller;
+//import org.springframework.ui.Model;
+//import org.springframework.web.bind.annotation.*;
+//import org.springframework.web.multipart.MultipartFile;
+//import org.springframework.web.servlet.ModelAndView;
+//
+//import java.io.IOException;
+//import java.util.ArrayList;
+//import java.util.List;
+//import java.util.Map;
 
 
 /**
@@ -35,9 +35,9 @@ import java.util.Map;
  * </p>
  * @author Brandan Jones
  */
-@Controller
+//@Controller
 public class PlantDiaryController {
-
+/***
     @Autowired
     ISpecimenService specimenService;
 
@@ -47,6 +47,7 @@ public class PlantDiaryController {
      * Handle the root (/) endpoint and return a start page.
      * @return
      */
+/***
     @RequestMapping("/")
     public String index(Model model) {
         Specimen specimen = new Specimen();
@@ -58,7 +59,7 @@ public class PlantDiaryController {
         model.addAttribute(specimen);
         return "start";
     }
-
+/***
     @GetMapping("/specimen")
     @ResponseBody
     public List<Specimen> fetchAllSpecimens() {
@@ -76,6 +77,7 @@ public class PlantDiaryController {
      *
      * @param id a unique identifier for this specimen
      */
+/***
     @GetMapping("/specimen/{id}/")
     public ResponseEntity fetchSpecimenById(@PathVariable("id") int id) {
         Specimen foundSpecimen = specimenService.fetchById(id);
@@ -94,6 +96,7 @@ public class PlantDiaryController {
      * @param specimen a JSON representation of a specimen object.
      * @return the newly created specimen object.
      */
+/***
     @PostMapping(value="/specimen", consumes="application/json", produces="application/json")
     public ResponseEntity createSpecimen(@RequestBody Specimen specimen) {
         Specimen newSpecimen = null;
@@ -154,6 +157,7 @@ public class PlantDiaryController {
      * Handle the sustainabilty endpoint and return a start page.
      * @return
      */
+/***
     @RequestMapping("/sustainability")
     public String sustainability() {
         return "sustainability";
@@ -167,8 +171,8 @@ public class PlantDiaryController {
             List<Plant> plants = specimenService.fetchPlants(term);
             for (Plant plant: plants) {
                 LabelValue labelValue = new LabelValue();
-                labelValue.setLabel(plant.toString());
-                labelValue.setValue(plant.getId());
+//                labelValue.setLabel(plant.toString());
+//                labelValue.setValue(plant.getId());
                 allPlantNames.add(labelValue);
             }
         } catch (IOException e) {
@@ -192,8 +196,8 @@ public class PlantDiaryController {
 
         Photo photo = new Photo();
         try {
-            photo.setFileName(imageFile.getOriginalFilename());
-            photo.setSpecimen(specimen);
+//            photo.setFileName(imageFile.getOriginalFilename());
+//            photo.setSpecimen(specimen);
             specimenService.saveImage(imageFile, photo);
             model.addAttribute("specimen", specimen);
             modelAndView.setViewName("success");
@@ -216,4 +220,5 @@ public class PlantDiaryController {
         return  modelAndView;
 
     }
+    ****/
 }
